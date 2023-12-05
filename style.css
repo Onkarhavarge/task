@@ -1,0 +1,12 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th{
+    border:1pt solid #D8D9DA;
+    font-size: 12pt;
+}
+th{
+    text-align: center;
+    background-color: #D6EFED;
+}
